@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on C#-MSSQL
+- 🌱 I’m currently learning JAVA-React
+-  📫 How to reach me:www.linkedin.com/in/ahmetkubilaytuncbas ,Discord:KubilayTuncbas#9017
+-  " Bilgi paylaşıldıkça çoğalır "
 <!--
 **kubilaytuncbas/kubilaytuncbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
