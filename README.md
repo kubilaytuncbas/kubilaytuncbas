@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on C#-MSSQL
-- 🌱 I’m currently learning JAVA-React
+- 🔭 I’m currently working on C#-JAVA-SQL
+- 🌱 I’m currently learning React
 -  📫 How to reach me:www.linkedin.com/in/ahmetkubilaytuncbas ,Discord:KubilayTuncbas#9017
 -  " Bilgi paylaşıldıkça çoğalır "
 <!--
