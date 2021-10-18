@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on C#-JAVA-SQL
+- 🔭 I’m currently working on JAVA-Spring-SpringBoot
 - 🌱 I’m currently learning React
 -  📫 How to reach me:www.linkedin.com/in/ahmetkubilaytuncbas ,Discord:KubilayTuncbas#9017
 -  " Bilgi paylaşıldıkça çoğalır "
