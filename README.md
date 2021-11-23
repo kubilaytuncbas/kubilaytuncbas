@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on JAVA-CoreJava-Spring-SpringBoot
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on JAVA-SQL-CoreJava-Spring-SpringBoot
+- 🌱 I’m currently learning Docker-Linux-AWS-React
 -  📫 How to reach me:www.linkedin.com/in/ahmetkubilaytuncbas ,Discord:KubilayTuncbas#9017
 -  " Bilgi paylaşıldıkça çoğalır "
 <!--
